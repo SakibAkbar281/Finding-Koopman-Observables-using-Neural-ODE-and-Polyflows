@@ -31,3 +31,8 @@ Here, the values of $a,b,c,$ and $d$ are predefined as $1.5,1,1,$ and $0.5$ resp
 
 The objective of this project is to develop a neural network that can approximate $\dot{x}\_{1}$ and $\dot{x}\_{2}$ from the given time series data of $x_{1} (t)$ and $x_{2} (t)$, thus allowing us to discover the unknown dynamics $f(x)$.
 
+
+## Method
+
+![method.png](method.png)
+
