@@ -24,7 +24,13 @@ x_{2}( 0)
 \end{bmatrix} & =\begin{bmatrix}
 1\\
 1
-\end{bmatrix}
+\end{bmatrix} ,\ \begin{bmatrix}
+0.5\\
+1
+\end{bmatrix} ,\ \begin{bmatrix}
+1\\
+0.5
+\end{bmatrix} .
 \end{align*}$$
 
 Here, the values of $a,b,c,$ and $d$ are predefined as $1.5,1,1,$ and $0.5$ respectively. However, the governing dynamics function $f(x)$ is unknown.
